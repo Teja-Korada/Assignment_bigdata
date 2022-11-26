@@ -1,2 +1,4 @@
 why python
 assignment questions
+
+this is sample to check git functionality
